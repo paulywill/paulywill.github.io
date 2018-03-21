@@ -1,25 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll, paulywill!"
-date:   2018-03-20 14:14:05 -0400
+title:  "New Jekyll, ba-bye WordPress"
+date:   2018-03-21 15:45:00 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I've decided to finally getting around to fixing my site. Like many webdev projects I left my personally site to collect dust after a recent breakdown with Wordpress (again :S).
 
-Jekyll also offers powerful support for code snippets:
+Do not get me wrong, I loved working with WordPress and the company [Automattic](https://automattic.com/) after reading Scott Berkun's [*'The Year Without Pants'*](https://www.amazon.ca/Year-Without-Pants-WordPress-com-Future/dp/1118660633). However, WordPress was starting to become overkill for my rarely updated blog. All the plugins I had originally installed were long abandon by the developers; next I required a new version of PHP to be installed; database had to re-created; credentials long forgotten...
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Thus the site sat for a few weeks with a lovely database error. I would occasionally receive a traffic report of zero visitors.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+*sigh...*
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I always have good intentions for the 'one day-itis'. Saying to myself, one day I'll get to mastering PHP and create a designer award winning theme to resolve my ugly site to something note worthy. This is a line I've been saying for approximately 4+ years.
+
+It's time to let go and try something different.
+
+Jekyll seems like a no-brainer for something static, simple, and easy to update with Github.
+
+My ramblings will hopefully be a little more streamlined in my simple Atom text editor and error free. 🤞
