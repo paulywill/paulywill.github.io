@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-What's happening?
+![family_shot]({{ "/assets/my_family.jpg" | absolute_url }})
 
+What's happening?
 
 I'm Paul. This is my site to share this and that. I currently work for [Shared Services Canada](https://en.wikipedia.org/wiki/Shared_Services_Canada) as a z/OS [Mainframe](http://millennialmainframer.com/) Systems Programmer. I live in beautiful Barrie, Ontario with my beautiful [wife](http://kristenalary.com), son, and two mutts.
 
