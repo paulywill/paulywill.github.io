@@ -16,7 +16,7 @@
 title: paulywill
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My test and development area for experierments and adventures.
+  My test and development area for experiments and adventures.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://paulywill.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: paulwillgamble
