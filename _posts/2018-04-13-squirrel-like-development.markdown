@@ -7,21 +7,22 @@ categories: coding
 
 Life is complicated.
 
-As I write this is a busy Tim Horton's (the Canadian café of choice) everyone is juggling conversation between friends, caffeinating themselves, shoving carbs in their food holes, and checking their social status on their digital sidearms... a lot is happening.
+As I write this in a busy Tim Horton's (the Canadian café of choice) everyone is juggling conversation between friends, caffeinating themselves, shoving carbs in their food holes, and checking their social status on their digital sidearms... it's fair to say we make it complicated.
 
-We're nothing more than naked apes and busy squirrels.
+We're nothing more than naked apes with busy squirrel minds.
 
 I'm certainly no exception. Even on a late evening when I want to slowly shutdown the screen and relax, life has other plans.
 
 Sick child. Angry and worn down spouse. And a long list of projects I've created for myself.
 
-Thus the breather and re-group at "the Timmies".
+Thus the breather and re-group at "_the Timmies_".
 
 ## Rabbit Holes and Can of Worms
+#### <span style="color:red">! UPCOMING JARGON ALERT!</span>
 
 In my hopes to get one thing done I'm often "rabbit-chasing" and "something-shiny" distracted off my initial intentions. Sometimes I'm actually able to land the plane.
 
-A great example is preparation for the [AWS Certified Developer - Associate Level](http://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_developer_associate_blueprint.pdf) exam I have [next month](https://www.timeanddate.com/countdown/generic?iso=20180511T12&p0=1202&font=cursive).While doing some studying I realized needed AWS CLI install on my Mac. Which I thought I had already done in the past.
+A great example is preparation for the [AWS Certified Developer - Associate Level](http://awstrainingandcertification.s3.amazonaws.com/production/AWS_certified_developer_associate_blueprint.pdf) exam I have [next month](https://www.timeanddate.com/countdown/generic?iso=20180511T12&p0=1202&font=cursive).  While doing some studying I realized I needed the [AWS CLI](https://aws.amazon.com/cli/) install on my Mac. Which I thought I had already done in the past.
 
 `Command not found.`
 
@@ -39,8 +40,9 @@ The 'pip' command exists in these Python versions:
 ....
 ....
 ```
+My [pyenv](https://github.com/pyenv/pyenv) setup, which I understand vaguely, is not playing nice again with [PIP](https://en.wikipedia.org/wiki/Pip_(package_manager)). What's irritating is that it felt pyenv now has it's hooks in deep after a few bash and zsh configurations.
 
-This led me down a long trail of trying to troubleshoot the issue with pyenv and why PIP was not working. This is typical in most IT work and development, and thankfully I found the solution: [remove pyenv](https://github.com/pyenv/pyenv/issues/465) and then reinstalling pyenv with brew (leaving all my .zshrc configurations in place).
+This led me down a long trail of trying to troubleshoot the issue with pyenv and why PIP was not working. This is typical of most IT work and development, and thankfully I found the solution: [remove pyenv](https://github.com/pyenv/pyenv/issues/465) and then reinstalling pyenv with brew (leaving all my .zshrc configurations in place).
 
 ```
 rm -rf "$HOME/.pyenv"
@@ -48,14 +50,14 @@ brew uninstall pyenv
 brew install pyenv
 ```
 
-Once I was finally getting PIP working and able to cleaning re-install AWS CLI on my system I notice I had approximately 20 open tabs on Chrome that could almost trace my thinking and rabid searching.
+Once I was finally got PIP working and able to cleaning re-install AWS CLI on my system I notice I had approximately 20 open tabs on Chrome that could almost trace my thinking and rabid searching.
 
-Had I not found the solution and left it for later it wouldn't been doubtful I would have been able to pick back up from where I was.
+Had I not found the solution and left it for later it's doubtful I would have been able to pick up from where I left off.
 
 
 ## Development projects vs. learning
 
-I currently have a project I've lost a bit of stream and enthusiasm for partly because of something similar. The project in question is a [parapos](https://github.com/paulywill/parapos) (this is a updated version of the original project I made many years ago:[Parachute-Packing-POS](https://github.com/paulywill/Parachute-Packing-POS)).
+I currently have a project I've lost a bit of stream and enthusiasm for partly because of something similar. The project in question is a [parapos](https://github.com/paulywill/parapos) (this is a updated version of the original project I made many years ago: [Parachute-Packing-POS](https://github.com/paulywill/Parachute-Packing-POS)).
 
 Since the skydiving season up here in Canada is soon to start and a fellow rigger friend was eager for me to help him create something I coded away, refactoring the original project and once again getting familiar with Rails. This included forcing myself to do a little [Freekend (free weekend) Hackathon](https://github.com/paulywill/freekend-hackathon-2018) to get most the functions working.
 
@@ -87,13 +89,13 @@ If you can gather from the title, you focus and plan your life around ONE damn t
 
 In conclusion...
 
-I'm now a little more calm and clear headed in this all night café and should probably head more to the worn down spouse.
+1. I'm now a little more calm and clear headed in this all night café and should probably head home to the worn down spouse.
 
-After that, some more AWS training.
+2. After that, some more AWS training.
 
-After that, finish and deploy my Rails app.
+3. After that, finish and deploy my Rails app.
 
-After that, level up my skills in Ruby and TDD with RSpec the next project down the road.
+4. After that, level up my skills in Ruby and TDD with RSpec the next project down the road.
 
 `saving`
 `git push`
