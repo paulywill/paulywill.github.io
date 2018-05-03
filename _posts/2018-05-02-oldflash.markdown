@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Old School Flash"
+date:   2018-05-02 17:05:00 -0400
+categories: webdev
+---
+
+I'm the process of creating a new portfolio for potential employers or/and clients.
+
+It's been more than a decennium since I created a anything resembling an online portfolio for web development, and I think finishing the [freecodecamp.org](http://freecodecamp.org) curriculum (after my AWS test [next week](https://www.timeanddate.com/countdown/generic?iso=20180511T12&p0=1202&font=cursive)) would be a great start for me.
+
+In the meantime I found my old portfolio on a DVD backup from back in college circa 2003'ish.
+
+I present my [old school flash](/assets/old_flash/flash.html)!*
+
+_* At the time I was on a huge evolution/Darwinian kick and fancied myself as a webcomic up-and-comer. The link to my no longer personal site barks.ca is sadly no more._
+
+_** I also discovered that I will have to convert these .swf before [2020](https://techcrunch.com/2017/07/25/get-ready-to-say-goodbye-to-flash-in-2020/)_
