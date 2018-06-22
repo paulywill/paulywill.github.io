@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![family_shot]({{ "/assets/my_family.jpg" | absolute_url }})
+![family_shot]({{ "/assets/my_family.jpg" | "family_shot" }})
 
 What's happening?
 
