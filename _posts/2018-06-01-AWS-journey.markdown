@@ -7,7 +7,7 @@ categories: life
 
 Well I did not pass my AWS Developer Associate 2018 certification test last month.
 
-This was a combination of waiting until the last two weeks to dial up my studying and then the usual timely curve balls from life (including a false alarms ER visit for our toddler the night before the exam - thankfuly as was well:).
+This was a combination of waiting until the last two weeks to dial up my studying and then the usual timely curve balls from life (including a false alarm ER visit for our toddler the night before the exam - thankfully as was well:).
 
 To be frank, had I passed the exam I would have felt I cheated the system because there is still several knowledge gaps in AWS I'm not familiar with. Since I was studying literally to the last minute before my exam there were several S3 sections I did not cover (wrongly assuming I had a superior grasp of how S3 worked), and thus paid dearly for this erroneous assumption.
 
