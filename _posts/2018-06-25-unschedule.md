@@ -23,7 +23,7 @@ One of the gems I walked away with was an idea called **Unschedule**<sup>*</sup>
 
 The idea is simple, block out all the time in a given week that you're doing something, count the remaining free blocks of time you have left.
 
-![Unschedule example]({{ site.url }}/assets/Unsched.png "Unschedule" )
+![Unschedule example]({{ site.url }}/assets/images/unschedule/Unsched.png "Unschedule" )
 
 You'll notice EVERYTHING is blocked: 'Working for the Man', sleeping, eating, and commuting. The pink blocks on Sunday were for resting and spending nothing but quality time with friends and family, and the blue blocks were schedule blocks for needed 'me-time'. And as you see, what is left is those precious green blocks. Approximately 13 hrs every week.
 
@@ -31,7 +31,7 @@ That's it. That's my free time.
 
 You'll also notice this schedule is from 2015, a year before my son was born thus my new unschedule would is currently looking like this:
 
-![Unschedule example 2018]({{ site.url }}/assets/Unsched_2.png "Unschedule 2018" )
+![Unschedule example 2018]({{ site.url }}/assets/images/unschedule/Unsched_2.png "Unschedule 2018" )
 
 You will notice a few changes right away and some interesting INSIGHTS I noticed.
 
@@ -59,13 +59,13 @@ I highly recommend experimenting with an Unschedule calendar to gain some insigh
 
 ### Some Fine Books to Check Out
 
-[![Getting Things Done]({{ site.url }}/assets/gtd.png "Getting Things Done" )](https://amzn.to/2tH8q46){:target="_blank"}
-[![The One Thing]({{ site.url }}/assets/tot.png "The One Thing" )](https://amzn.to/2ItQVcU){:target="_blank"}
-[![The Power of Full Engagement]({{ site.url }}/assets/pofe.png "The Power of Full Engagement" )](https://amzn.to/2tBQbwU){:target="_blank"}
+[![Getting Things Done]({{ site.url }}/assets/images/unschedule/gtd.png "Getting Things Done" )](https://amzn.to/2tH8q46){:target="_blank"}
+[![The One Thing]({{ site.url }}/assets/images/unschedule/tot.png "The One Thing" )](https://amzn.to/2ItQVcU){:target="_blank"}
+[![The Power of Full Engagement]({{ site.url }}/assets/images/unschedule/pofe.png "The Power of Full Engagement" )](https://amzn.to/2tBQbwU){:target="_blank"}
 
 ### YouTube Randy Pausch
 
-<iframe frameborder="0" src="http://www.youtube.com/embed/oTugjssqOT0" width="420" height="315" allowfullscreen></iframe>
+[![Randy Pausch - Time Management]({{ site.url }}/assets/images/unschedule/randy.jpg "Randy Pausch - Time Management" )](https://youtu.be/oTugjssqOT0){:target="_blank"}
 
 ### Freakonomics podcast
 
