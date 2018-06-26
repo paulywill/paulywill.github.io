@@ -57,13 +57,32 @@ I highly recommend experimenting with an Unschedule calendar to gain some insigh
 
 ## BONUS MATERIAL: ##
 
-Check out Randy Pausch's lecture, ["Time Management"](https://youtu.be/oTugjssqOT0). Some context if you haven't seen this before, he was taking about time management as someone that was dying from terminal cancer. Highly recommend his ["Last Lecture"](https://youtu.be/ji5_MqicxSo).
+### Some Fine Books to Check Out
+
+[![Getting Things Done]({{ site.url }}/assets/gtd.png "Getting Things Done" )](https://amzn.to/2tH8q46){:target="_blank"}
+[![The One Thing]({{ site.url }}/assets/tot.png "The One Thing" )](https://amzn.to/2ItQVcU){:target="_blank"}
+[![The Power of Full Engagement]({{ site.url }}/assets/pofe.png "The Power of Full Engagement" )](https://amzn.to/2tBQbwU){:target="_blank"}
+
+### YouTube Randy Pausch
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/oTugjssqOT0" frameborder="0" allowfullscreen></iframe>
+
+### Freakonomics podcast
+
+<iframe frameborder="0" src="https://www.wnyc.org/widgets/ondemand_player/freakonomics/#file=json/838923" width="100%" height="54"></iframe>
 
 <br>
 <br>
+
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-na.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=paulywillcom-20&o=15&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=0143126563&linkId=259b07b02feac782cebb510c8fa927e9"></iframe>
+
+
 
 
 <sub> * There's several authors taking claim for _"inventing"_ the Unschedule. The book that I believe I read was [_"Still procrastinating"_ by Joseph Ferrari](https://amzn.to/2tnmbFT.). </sub>
+
+
+
 
 
 {% if page.comments %}
