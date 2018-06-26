@@ -65,7 +65,7 @@ I highly recommend experimenting with an Unschedule calendar to gain some insigh
 
 ### YouTube Randy Pausch
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/oTugjssqOT0" frameborder="0" allowfullscreen></iframe>
+<iframe frameborder="0" src="http://www.youtube.com/embed/oTugjssqOT0" width="420" height="315" allowfullscreen></iframe>
 
 ### Freakonomics podcast
 
