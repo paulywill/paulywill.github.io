@@ -21,6 +21,8 @@ In ultimate irony, it took me awhile to read them.
 
 One of the gems I walked away with was an idea called **Unschedule**<sup>*</sup>.
 
+![Empty Week]({{ site.url }}/assets/images/unschedule/empty.png "Empty Week" )
+
 The idea is simple, block out all the time in a given week that you're doing something, count the remaining free blocks of time you have left.
 
 ![Unschedule example]({{ site.url }}/assets/images/unschedule/Unsched.png "Unschedule" )
