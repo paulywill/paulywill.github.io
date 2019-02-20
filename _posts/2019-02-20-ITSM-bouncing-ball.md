@@ -7,7 +7,7 @@ comments: true
 ---
 
 In a previous version of this blog I would throw up random posts that received very little audience attention and more or less for my own amusement. Then I posted one entry that had a massive response and ranked high on the Google results. It was titled, [*"BMC Remedy Sucks! - And Here's Why"*](https://web.archive.org/web/20150302010546/http://paulywill.com/bmc-remedy-sucks).
-It was unfair rant about Remedy specifically when the truth is more procedural and cultural rather than the short comings of a single ITSM solution.
+It was an unfair rant about Remedy specifically when the truth is more procedural and cultural rather than the short comings of a single ITSM solution.
 
 Some of the _joy_ of working in [Github](Github.com), I suspect for some developers and IT professionals, is the straight forward approach of collaborating with others. And although there is a bit of a learning curve, the [Github flow](https://guides.github.com/introduction/flow/) is remarkably easy to follow. In stark contrast is the half-implemented efforts of ITIL procedures with feature overloaded products. 
 
