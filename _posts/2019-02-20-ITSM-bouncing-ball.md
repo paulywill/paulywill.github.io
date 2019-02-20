@@ -9,9 +9,7 @@ comments: true
 In a previous version of this blog I would throw up random posts that received very little audience attention and more or less for my own amusement. Then I posted one entry that had a massive response and ranked high on the Google results. It was titled, [*"BMC Remedy Sucks! - And Here's Why"*](https://web.archive.org/web/20150302010546/http://paulywill.com/bmc-remedy-sucks).
 It was unfair rant about Remedy specifically when the truth is more procedural and cultural rather than the short comings of a single ITSM solution.
 
-Some of the _joy_ of working in [Github](Github.com), I suspect for some developers and IT professionals, is the straight forward approach of collaborating with others. And although there is a bit of a learning curve, the [Github flow](https://guides.github.com/introduction/flow/) is a remarkably easy to follow.
-
-It stark contrast is the half-implemented efforts of ITIL procedures with feature overloaded products. 
+Some of the _joy_ of working in [Github](Github.com), I suspect for some developers and IT professionals, is the straight forward approach of collaborating with others. And although there is a bit of a learning curve, the [Github flow](https://guides.github.com/introduction/flow/) is remarkably easy to follow. In stark contrast is the half-implemented efforts of ITIL procedures with feature overloaded products. 
 
 The frustrating part for any IT professional is being told they have to submit a "ticket" or a "request" and then left to their own devices to figure out how exactly to do that.
 
@@ -33,9 +31,10 @@ I also blame the some of the bureaucratic training regarding [ITIL](https://en.w
 
 You're the user, the IT professional, and the gatekeeper before [GIGO](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out) .
 
-I keep asking and keep cc'ing everyone on the same team what to fill in and why. I make them spell it out for me, and soon it's obvious those ordering the tickets be created don't really know the nitty gritty nor care themselves. 
+I keep asking and keep cc'ing everyone on the same team what to fill in and why. I make them spell it out for me, and soon it's obvious those ordering the tickets to be created don't really know the nitty gritty details nor care themselves. 
 
-*"How should I open this ticket? What's a good example? Who set this form up and why did they include this field? Which team so I assign it to? Who is affected and following-up? What's the SLA?"*
+Good questions to ask:
+*"How should I open this ticket? What's a good example? Who set this form up and why did they include this field? Which team do I assign it to? Who is affected and following-up? What's the SLA?"*
 
 If I had my way I would push those in charge of the UX to extremely limit the fields and cleanup the options to human consumption or something easily automated to CI/CD in the future. To make it really clear who is holding court and what is required next. 
 
