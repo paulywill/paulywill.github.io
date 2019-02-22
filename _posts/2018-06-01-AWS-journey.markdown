@@ -29,3 +29,6 @@ I am currently going through:
 * Udemy's [AWS Certified Developer Associate : Real Tests](https://www.udemy.com/real-tests-aws-certified-developer-associate/learn/v4/t/quiz/4412004/results?expanded=89055402) course
 * occasionally reading [AWS Certified Developer - Associate Guide](https://amzn.to/2LcWiPt)
 * and [AWS's FAQs](https://aws.amazon.com/faqs/)
+
+**EDIT:**
+Received my [CDA](/assets/aws/aws_cda.pdf) in September 2018. Doing practice tests in the Udemy link above proved to be very helpful as the same questions did appear on the real exam and tight feedback loop and practicing ingrained in the intel in deep.
