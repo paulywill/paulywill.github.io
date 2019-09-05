@@ -1,7 +1,7 @@
 ---
-layout: page
 title: About
-permalink: /about/
+permalink: "/about/"
+layout: page
 ---
 
 ![family_shot]({{ "/assets/my_family.jpg" | "family_shot" }})

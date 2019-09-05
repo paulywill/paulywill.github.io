@@ -1,8 +1,9 @@
 ---
+title: Old School Flash
+date: 2018-05-02 21:05:00 Z
+categories:
+- webdev
 layout: post
-title:  "Old School Flash"
-date:   2018-05-02 17:05:00 -0400
-categories: webdev
 ---
 
 I'm the process of creating a new portfolio for potential employers or/and clients.

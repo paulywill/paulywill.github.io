@@ -1,8 +1,10 @@
 ---
+title: New Jekyll, ba-bye WordPress
+date: 2018-03-21 19:45:00 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "New Jekyll, ba-bye WordPress"
-date:   2018-03-21 15:45:00 -0400
-categories: jekyll update
 ---
 
 I've decided to finally getting around to fixing my site. Like many webdev projects I left my personally site to collect dust after a recent breakdown with Wordpress (again :S).

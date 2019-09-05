@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Unschedule
-permalink: /unschedule/
+date: 2018-06-25 00:00:00 Z
+permalink: "/unschedule/"
+layout: post
 comments: true
-# other options
 ---
+
 <!-- Custom CSS -->
 <style type="text/css">
 code {

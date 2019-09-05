@@ -1,8 +1,9 @@
 ---
+title: Look Squirrel... Like Development
+date: 2018-04-14 03:19:05 Z
+categories:
+- coding
 layout: post
-title:  "Look Squirrel... Like Development"
-date:   2018-04-13 23:19:05 -0400
-categories: coding
 ---
 
 Life is complicated.

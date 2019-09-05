@@ -1,8 +1,9 @@
 ---
+title: AWS Certification Journey
+date: 2018-06-01 15:06:00 Z
+categories:
+- life
 layout: post
-title:  "AWS Certification Journey"
-date:   2018-06-01 11:06:00 -0400
-categories: life
 ---
 
 Well I did not pass my AWS Developer Associate 2018 certification test last month.
