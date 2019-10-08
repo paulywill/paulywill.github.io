@@ -1,9 +1,9 @@
 ---
-layout: post
 title: The ITSM Bouncing Ball
-permalink: /ITSM-bouncing-ball/
+date: 2019-02-20 00:00:00 Z
+permalink: "/ITSM-bouncing-ball/"
+layout: post
 comments: true
-# other options
 ---
 
 In a previous version of this blog I would throw up random posts that received very little audience attention and more or less for my own amusement. Then I posted one entry that had a massive response and ranked high on the Google results. It was titled, [*"BMC Remedy Sucks! - And Here's Why"*](https://web.archive.org/web/20150302010546/http://paulywill.com/bmc-remedy-sucks).
