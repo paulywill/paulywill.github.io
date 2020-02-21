@@ -32,18 +32,16 @@ https://www.newsflare.com/video/316198/ice-protesters-at-toronto-aws-summit
     - “Terraform and AWS” / Eric Wright
         - Very interesting; straight forward
 
+### To-Do
 
+- Play with:
+- [ ] -   AWS AppSync
+- [ ] -   AWS Amplify
+- [ ] -   AWS Rekognition
+- [ ] -   AWS Cognito
+- [ ] -   Elastic Search
+- [ ] -   Terraform
 
-- [ ] Check my damn Apple ID / LinkedIn…… again!
-- [ ] Play with:
-    - [ ] AWS AppSync
-    - [ ] AWS Amplify
-    - [ ] AWS Rekognition
-    - [ ] AWS Cognito
-    - [ ] Elastic Search
-    - [ ] Terraform
-
-
-- [ ] ONICA had a meetup every month in Toronto/ I think I joined the group
-- [ ] Find more references and arguments for Terraform vs. CloudFormation and others (that Gruntwork article looked good)
-- [ ] Reduce AWS monthly bill…… AGAIN
+- [ ] -   ONICA had a meetup every month in Toronto/ I think I joined the group
+- [ ] -   Find more references and arguments for Terraform vs. CloudFormation and others (that Gruntwork article looked good)
+- [ ] -   Reduce AWS monthly bill…… AGAIN

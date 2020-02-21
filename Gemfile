@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "github-pages", ">= 186", group: :jekyll_plugins
+gem "github-pages", ">= 204", group: :jekyll_plugins
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -9,7 +9,7 @@ gem "github-pages", ">= 186", group: :jekyll_plugins
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", ">= 3.6.2"
+gem "jekyll", ">= 3.8.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.4", ">= 2.4.0"
