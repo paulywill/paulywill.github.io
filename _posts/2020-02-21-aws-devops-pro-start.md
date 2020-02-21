@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AWS DevOps Professional Journey
+title: AWS DevOps Professional Journey - Day 1
 date: 2020-02-21 11:15:00 Z
 permalink: "/aws-devops-pro-day1/"
 comments: true
@@ -9,7 +9,13 @@ comments: true
 
 ### Preamble
 
-I prematurely indicated my intension of starting my AWS DevOps Professional Certification journey awhile back (tk: tweet link). Unfortunately nightly fatigue, overflowing to-do items, and excuses always prevented me starting. It's going to be a long journey and decide to use this blog as my accountability as I pluck away.
+I prematurely [indicated](https://twitter.com/paulwillgamble/status/1220524505082355717) my intension of starting my AWS DevOps Professional Certification journey awhile back, as nudged by Quincy from [FreeCodeCamp.org](https://www.freecodecamp.org/news/awscertified-challenge-free-path-aws-cloud-certifications/). 
+
+Unfortunately nightly fatigue, overflowing to-do items, and excuses always prevented me starting. 
+
+Waiting to "*__feel like it__*" is a horrible game plan. 
+
+It's going to be a long journey and decide to use this blog as my accountability as I pluck away, lunch hours, every night, and some mornings on them magic no gym rest days.
 
 
 ### Day 1 (take 2)
