@@ -34,7 +34,7 @@ https://www.newsflare.com/video/316198/ice-protesters-at-toronto-aws-summit
 
 ### To-Do
 
-- Play with:
+##### Play with
 - [ ] -   AWS AppSync
 - [ ] -   AWS Amplify
 - [ ] -   AWS Rekognition
@@ -42,6 +42,7 @@ https://www.newsflare.com/video/316198/ice-protesters-at-toronto-aws-summit
 - [ ] -   Elastic Search
 - [ ] -   Terraform
 
+##### Research more
 - [ ] -   ONICA had a meetup every month in Toronto/ I think I joined the group
 - [ ] -   Find more references and arguments for Terraform vs. CloudFormation and others (that Gruntwork article looked good)
 - [ ] -   Reduce AWS monthly bill…… AGAIN
