@@ -18,7 +18,7 @@ Waiting to "*__feel like it__*" is a horrible game plan.
 It's going to be a long journey and decide to use this blog as my accountability as I pluck away, lunch hours, every night, and some mornings on them magic no gym rest days.
 
 
-### Day 1 (take 2)
+### Day 1 (take 2) Activities
 
 - [Udemy Course](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/) started to watch the intro and some setup
 - changed zsh theme to "Agnoster"; this led to a long segway [resolving wacky fonts](https://dev.to/mattstratton/making-powerline-work-in-visual-studio-code-terminal-1m7) 
