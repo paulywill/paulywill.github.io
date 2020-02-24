@@ -11,7 +11,7 @@ comments: true
 
 - [Udemy Course](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/) created a Lambda funtion; triggers; a CodeBuild
 
-It's nice that I was able to find a *gotchya* question on the Notes section. 
+It's nice that I was able to find a *gotchya* question on the Q&A section of the course. 
 
 AWS changes their UI so often that it no longer matches what I'm seeing in the lecture. If this case there was a difference between the "*Designer*" map was not showing CloudWatch on my aws console.
 
