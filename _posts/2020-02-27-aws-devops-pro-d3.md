@@ -1,29 +1,26 @@
 ---
 layout: post
-title: AWS DevOps Professional Journey - Day 2
-date: 2020-02-24 15:07:00 Z
-permalink: "/aws-devops-pro-day2/"
+title: AWS DevOps Professional Journey - Day 3
+date: 2020-02-27 13:07:00 Z
+permalink: "/aws-devops-pro-day3/"
 comments: true
 # other options
 ---
 
-### Day 2 Activities
+### Day 3 Activities
 
-- [Udemy Course](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/) created a Lambda funtion; triggers; a CodeBuild
+- [Udemy Course](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/) deep dive on buildspec.yml
 
-It's nice that I was able to find a *gotchya* question on the Q&A section of the course. 
+As with the [100DaysOfCode](https://github.com/paulywill/100-days-of-code/blob/master/log.md) challenge I am sometimes unable to do consecutive days in a row. This week especially problematic with a sick day and then catching up with the day job, and the hyper active 4 yr old. :S
 
-AWS changes their UI so often that it no longer matches what I'm seeing in the lecture. If this case there was a difference between the "*Designer*" map was not showing CloudWatch on my aws console.
+Regardless I decided to do another lunch learn, watched a 9min video on the [buildspec.yml](https://docs.aws.amazon.com/codebuild/latest/userguide/build-spec-ref.html) for CodeBuild in the Udemy course I'm following.
 
+This quickly following by seeing if there was a buildspec for a previous [TDD repo](https://github.com/paulywill/superlists_v2) I created for the [_"Obey the Testing Goat"_](https://www.obeythetestinggoat.com/) 
+book.
 
-#### Lecture
+Always fascinated and frustrated my coffee drenched brain is bouncing around old projects with one simple question, "Where the hell was I last?"
 
-![Lambda Designer Map]({{ site.url }}/assets/images/aws_devops_pro/day_2_b.png "Udemy Lab" )
+Multitasking and playing around, which I suppose is  learning to some degree, is also eaten up with always trying to update configs and dependency.
 
+Did you know there's a new version of  ```aws cli``` and ```pip```, oh and ```oh-my-zsh```?
 
-#### Lab
-![Lambda Designer Map]({{ site.url }}/assets/images/aws_devops_pro/day_2_c.png "Udemy Lab" )
-
-
-The new location of CloudWatch is in the "permissions" tab:
-![Lambda Designer Map]({{ site.url }}/assets/images/aws_devops_pro/day_2_d.png "Udemy Lab" )
