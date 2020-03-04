@@ -14,7 +14,9 @@ I don't know if this is good habit, but I start by comparing industry salaries f
 Motivating? I don't know.
 
 ### TIL:
-* AWS just recently introduced [masks](https://forums.aws.amazon.com/thread.jspa?threadID=314535) for secure strings in the CodeBuild log
+Continuing with the [Udemy Course](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/):
+
+- AWS just recently introduced [masks](https://forums.aws.amazon.com/thread.jspa?threadID=314535) for secure strings in the CodeBuild log
 - [Indentation](https://github.com/awsdocs/aws-codebuild-user-guide/issues/46) in the `buildspec.yml` is very important and actually broke one of my builds. In this case the `artifacts` is indented under `phases`.
 
 
