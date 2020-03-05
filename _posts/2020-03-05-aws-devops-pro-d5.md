@@ -12,7 +12,7 @@ Was not feeling it so there was a bit of play today.
 
 ### TIL:
 * Some CloudWatch Metric / Events
-* Setup a testing Discord and Slack servers for some future Lambda/SNS testing with CodeCommit and CodeBuild automation
+* Setup testing [Discord](https://discord.gg/ugT5ft) and [Slack](http://bit.ly/lets-build-slack) servers for some future Lambda/SNS testing with CodeCommit and CodeBuild automation
 
 Immediately upon activating Slack and Discord the first time in months I'm flooded with side projects I once volunteered for.
 
