@@ -13,7 +13,7 @@ I don't know if this is good habit, but I start by comparing industry salaries f
 
 Motivating? I don't know.
 
-### TIL:
+### TIL
 Continuing with the [Udemy Course](https://www.udemy.com/course/aws-certified-devops-engineer-professional-hands-on/):
 
 - AWS just recently introduced [masks](https://forums.aws.amazon.com/thread.jspa?threadID=314535) for secure strings in the CodeBuild log

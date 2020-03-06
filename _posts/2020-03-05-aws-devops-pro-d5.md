@@ -10,7 +10,7 @@ comments: true
 Late lunch study.
 Was not feeling it so there was a bit of play today.
 
-### TIL:
+### TIL
 * Some CloudWatch Metric / Events
 * Setup testing [Discord](https://discord.gg/ugT5ft) and [Slack](http://bit.ly/lets-build-slack) servers for some future Lambda/SNS testing with CodeCommit and CodeBuild automation
 
