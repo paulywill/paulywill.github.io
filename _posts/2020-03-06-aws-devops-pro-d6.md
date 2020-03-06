@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: aws
 title: AWS DevOps Professional Journey - Day 6
 date: 2020-03-06 13:00:00 Z
 permalink: "/aws-devops-pro-day6/"
