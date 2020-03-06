@@ -1,8 +1,7 @@
 ---
 title: AWS Certification Journey
 date: 2018-06-01 15:06:00 Z
-categories:
-- life
+categories: [aws]
 layout: post
 ---
 

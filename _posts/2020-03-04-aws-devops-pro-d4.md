@@ -3,6 +3,8 @@ layout: post
 title: AWS DevOps Professional Journey - Day 4
 date: 2020-03-04 13:00:00 Z
 permalink: "/aws-devops-pro-day4/"
+categories: [aws]
+tags: [devops-pro]
 comments: true
 # other options
 ---
