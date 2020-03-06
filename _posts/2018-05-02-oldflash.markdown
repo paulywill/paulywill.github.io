@@ -1,8 +1,7 @@
 ---
 title: Old School Flash
 date: 2018-05-02 21:05:00 Z
-categories:
-- webdev
+categories: [dev]
 layout: post
 ---
 

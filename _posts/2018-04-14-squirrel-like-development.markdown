@@ -1,8 +1,7 @@
 ---
 title: Look Squirrel... Like Development
 date: 2018-04-14 03:19:05 Z
-categories:
-- coding
+categories: [dev]
 layout: post
 ---
 

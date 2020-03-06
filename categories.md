@@ -1,6 +1,6 @@
 ---
-title: AWS
-permalink: "/aws/"
+title: Categories
+permalink: "/categories/"
 layout: page
 ---
 
