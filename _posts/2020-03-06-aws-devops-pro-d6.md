@@ -13,9 +13,9 @@ Something on the wish list is a subtle mastery of switching between screens, sav
 
 *... searching...*
 
-Aha! [Mission Control](https://www.makeuseof.com/tag/use-multiple-desktops-mac-os-x/), the feature I never use.`CTRL-L` as well.
+Aha! [Mission Control](https://www.makeuseof.com/tag/use-multiple-desktops-mac-os-x/), the feature I never use.`CTRL-[arrow key]` as well.
 
-To this day, I'm still a osx noob.
+To this day, I'm still an osx noob.
 
 ### TIL
 
