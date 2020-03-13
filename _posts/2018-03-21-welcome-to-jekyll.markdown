@@ -1,9 +1,7 @@
 ---
 title: New Jekyll, ba-bye WordPress
 date: 2018-03-21 19:45:00 Z
-categories:
-- jekyll
-- update
+categories: [jekyll]
 layout: post
 ---
 

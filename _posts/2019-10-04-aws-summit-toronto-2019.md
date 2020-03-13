@@ -3,6 +3,7 @@ layout: post
 title: AWS Summit Toronto 2019
 date: 2019-10-04 00:00:00 Z
 permalink: "/aws-summit-toronto-2019/"
+categories: [aws]
 comments: true
 # other options
 ---
