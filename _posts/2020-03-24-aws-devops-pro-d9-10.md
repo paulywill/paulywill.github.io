@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AWS DevOps Professional Journey - Day 9-10
-date: 2020-03-13 16:00:00 Z
+date: 2020-03-26 16:00:00 Z
 permalink: "/aws-devops-pro-day9-10/"
 categories: [aws]
 tags: [devops-pro]
