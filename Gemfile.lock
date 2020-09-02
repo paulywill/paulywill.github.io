@@ -248,6 +248,7 @@ GEM
     unicode-display_width (1.7.0)
     zeitwerk (2.4.0)
 
+
 PLATFORMS
   ruby
 
