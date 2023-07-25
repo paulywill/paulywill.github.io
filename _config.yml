@@ -9,7 +9,7 @@ collections:
     title: Uploads
     output: true
 description: My test and development area for experiments and adventures.
-baseurl: "/about"
+baseurl: "/"
 url: http://paulywill.com
 github_username: paulywill
 markdown: kramdown
