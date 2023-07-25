@@ -9,9 +9,8 @@ collections:
     title: Uploads
     output: true
 description: My test and development area for experiments and adventures.
-baseurl: "/"
+baseurl: "/about"
 url: http://paulywill.com
-twitter_username: paulwillgamble
 github_username: paulywill
 markdown: kramdown
 theme: minima
