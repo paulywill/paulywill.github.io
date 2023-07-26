@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-![family_shot]({{ "/assets/my_family.jpg" | "family_shot" }})
+![family_shot]({{ "/assets/my_family.jpg"}})
 
 What's happening?
 
