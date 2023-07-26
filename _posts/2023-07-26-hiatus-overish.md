@@ -6,3 +6,7 @@ layout: post
 ---
 
 Testing testing.
+
+- cottage time
+- productivity, overwhelmed
+- focus focus
