@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-![family_shot]({{ "/assets/my_family.png"}})
+![family_shot]({{ "/assets/my_family.png"}}){: .center-image }
 
 What's happening?
 
