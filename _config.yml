@@ -1,13 +1,6 @@
 ---
 title: paulywill
 timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 description: My test and development area for experiments and adventures.
 baseurl: "/"
 url: http://paulywill.com
